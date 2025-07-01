@@ -7,6 +7,13 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "Junyapad")
+		(date "2025-07-01")
+		(rev "1")
+		(comment 1 "Junya :3")
+		(comment 2 "https://github.com/junyali/Junyapad")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
