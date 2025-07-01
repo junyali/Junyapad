@@ -1,0 +1,12 @@
+[submodule "pcb/libraries/OPL_Kicad_Library"]
+	path = pcb/libraries/OPL_Kicad_Library
+	url = https://github.com/Seeed-Studio/OPL_Kicad_Library
+[submodule "pcb/libraries/Keebio-Parts.pretty"]
+	path = pcb/libraries/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty
+[submodule "pcb/libraries/KiCad-SSD1306-128x64"]
+	path = pcb/libraries/KiCad-SSD1306-128x64
+	url = https://github.com/pforrmi/KiCad-SSD1306-128x64
+[submodule "pcb/libraries/scottokeebs"]
+	path = pcb/libraries/scottokeebs
+	url = https://github.com/joe-scotto/scottokeebs
