@@ -1,0 +1,9 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D3,D6,D4,D1,D2,D5";"D_DO-35_SOD27_P7.62mm_Horizontal";6;"1N4148";;;
+2;"D10,D14,D8,D15,D9,D11,D12,D13,D7,D16";"LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm";10;"SK6812MINI";;;
+3;"C10,C8,C2,C5,C7,C4,C6,C1,C3,C9";"C_Disc_D3.0mm_W1.6mm_P2.50mm";10;"C";;;
+4;"R1,R2";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";2;"4.7kΩ";;;
+5;"SW1,SW2,SW4,SW6,SW3,SW5";"MX-Solderable-1U";6;"SW_Push_45deg";;;
+6;"J1";"OLED_128x32";1;"OLED_128x32";;;
+7;"SW9";"RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm";1;"RotaryEncoder_Switch";;;
+8;"U1";"XIAO-RP2040-DIP";1;"XIAO-RP2040-DIP";;;
