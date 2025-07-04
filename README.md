@@ -32,6 +32,6 @@ PCB designed in KiCAD, case built in OnShape, and firmware built using QMK. Pret
 | PCB Fabricated (JLCPCB, incl shipping) | N/A                                              | 5   | 0.94           | 4.70            | https://jlcpcb.com                                    |
 | 3D Printed Case (#printing-legion)     | N/A                                              | 1   | 0.00           | 0.00            | https://printlegion.hackclub.com                      |
 
-Total Price: **£15.08**
+Total Price: **£13.58**
 
 *Prices are a bit wonky since most products must be bought in bulk - this is an optimistic BOM*
